@@ -14,18 +14,6 @@ A simple and effective Habit Tracker web app built with React and Tailwind CSS. 
 
 ---
 
-## 🚀 Live Demo
-
-Coming Soon...
-
----
-
-## 📸 Screenshots
-
-*(Optional: Add screenshots of your UI)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React
