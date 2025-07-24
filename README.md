@@ -83,12 +83,6 @@ Feel free to open an issue or fork the repo.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🙋‍♂️ Author
 
 Made with ❤️ by [Sarthak Sharad Chavan](https://github.com/sarthak11234)
